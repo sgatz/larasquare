@@ -5,7 +5,7 @@
 [![Total Downloads][ico-downloads]][link-downloads]
 
 
-Simple and extensible Foursquare API PHP Client with Laravel Facade and ServiceProvider based on Guzzle 6
+Simple and extensible Foursquare API PHP Client with Laravel Facade and ServiceProvider based on Guzzle 6 (and allowing Guzzle 7)
 Currently it supports only userless endpoint requests.
 
 
